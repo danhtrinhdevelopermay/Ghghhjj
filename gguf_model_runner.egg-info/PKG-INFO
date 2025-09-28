@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: gguf-model-runner
+Version: 0.1.0
+Summary: GGUF AI Model Runner - Streamlit application for running GGUF models
+Requires-Python: >=3.11
+Requires-Dist: streamlit>=1.50.0
+Requires-Dist: psutil>=5.9.0
+Requires-Dist: llama-cpp-python==0.2.90

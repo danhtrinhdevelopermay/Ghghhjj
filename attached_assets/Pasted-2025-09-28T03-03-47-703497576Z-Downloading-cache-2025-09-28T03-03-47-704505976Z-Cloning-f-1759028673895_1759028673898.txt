@@ -1,0 +1,25 @@
+2025-09-28T03:03:47.703497576Z ==> Downloading cache...
+2025-09-28T03:03:47.704505976Z ==> Cloning from https://github.com/danhtrinhdevelopermay/Ghghhjj
+2025-09-28T03:03:53.58029326Z ==> Checking out commit b90f7755a16f6822e3e8fecd92eeec636f730923 in branch main
+2025-09-28T03:04:01.694565734Z ==> Transferred 218MB in 8s. Extraction took 4s.
+2025-09-28T03:04:13.964564975Z ==> Using Node.js version 22.16.0 (default)
+2025-09-28T03:04:13.989874737Z ==> Docs on specifying a Node.js version: https://render.com/docs/node-version
+2025-09-28T03:04:14.063468406Z ==> Running build command 'npm install; npm run build'...
+2025-09-28T03:04:15.091398073Z npm error code ENOENT
+2025-09-28T03:04:15.091576607Z npm error syscall open
+2025-09-28T03:04:15.091598308Z npm error path /opt/render/project/src/package.json
+2025-09-28T03:04:15.091682939Z npm error errno -2
+2025-09-28T03:04:15.0917145Z npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open '/opt/render/project/src/package.json'
+2025-09-28T03:04:15.091760911Z npm error enoent This is related to npm not being able to find a file.
+2025-09-28T03:04:15.091766031Z npm error enoent
+2025-09-28T03:04:15.092629928Z npm error A complete log of this run can be found in: /opt/render/.cache/_logs/2025-09-28T03_04_14_133Z-debug-0.log
+2025-09-28T03:04:15.262453174Z npm error code ENOENT
+2025-09-28T03:04:15.262601237Z npm error syscall open
+2025-09-28T03:04:15.262635148Z npm error path /opt/render/project/src/package.json
+2025-09-28T03:04:15.2627375Z npm error errno -2
+2025-09-28T03:04:15.262781831Z npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open '/opt/render/project/src/package.json'
+2025-09-28T03:04:15.262838942Z npm error enoent This is related to npm not being able to find a file.
+2025-09-28T03:04:15.262846282Z npm error enoent
+2025-09-28T03:04:15.263682439Z npm error A complete log of this run can be found in: /opt/render/.cache/_logs/2025-09-28T03_04_15_205Z-debug-0.log
+2025-09-28T03:04:15.278815645Z ==> Build failed 😞
+2025-09-28T03:04:15.278864946Z ==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys
